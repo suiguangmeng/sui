@@ -9,9 +9,9 @@
       background-color: #ffc0cb;
       text-align:center;
        padding: 1px; ">
-        <h1>
+        <h2>
             我的好儿子们
-        </h1>
+        </h2>
     </div>
     <p>
       1.贾轩（PC）：幽默小能手，自带搞笑buff，天天贼逗，我看见他都想笑。但是他人不错，满腹经纶，我一直都觉得他语文贼厉害。
