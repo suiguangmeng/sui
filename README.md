@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0062)file:///E:/%E7%BD%91%E9%A1%B5/%E5%A5%BD%E4%B8%9C%E8%A5%BF.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -14,7 +13,6 @@
             我的好儿子们
         </h1>
     </div>
-    <div style:"="" max-width:="" 640px;="" margin:="" 30px="" auto;="" padding:="" 15px;="" line-height:="" 1.5;="" "="">
     <p>
       1.贾轩（PC）：幽默小能手，自带搞笑buff，天天贼逗，我看见他都想笑。但是他人不错，满腹经纶，我一直都觉得他语文贼厉害。
     </p>
@@ -33,6 +31,5 @@
     <p>
       6.陈喜俊（俊儿）：高冷男神一枚，热爱打羽毛球。天天给他发消息都不回。以前搁学校也是对我爱答不理的，服他了。
     </p>
-  </div>
 
 </body></html>
